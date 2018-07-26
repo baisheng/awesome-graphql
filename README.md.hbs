@@ -1,0 +1,87 @@
+<!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
+
+# Awesome Graphql Tools [![Awesome][awesome-image]][awesome-repo]
+一个集合列表，包含 **{{graphqlCount}}** 个开源或闭源的 Graphql 工具集合
+
+_最后的生成时间为 {{generationTime}}. 贡献方式请见 [CONTRIBUTING.md](/CONTRIBUTING.md)_
+
+## 内容介绍
+{{#each tocEntries}}
+- [{{text}}](#{{anchor}})
+{{/each}}
+
+**Key**
+
+| Emoji                  | 含义          |
+| ---------------------- | ---------------- |
+| :octocat:              | GitHub 仓库地址      |
+| :globe_with_meridians: | 官方网站 |
+| :sunglasses:           | 资源列表     |
+| ⓘ                      | 最后提交时间 |
+
+{{#each graphqlGroups}}
+## {{name}}
+
+<table>
+  <thead>
+    <tr>
+      {{#each headerColumns}}
+        <th>{{this}}</th>
+      {{/each}}
+    </tr>
+  </thead>
+  <tbody>
+    {{#each graphqls}}
+      <tr>
+        <td width="240">
+          <div>
+            <b>{{name}}</b>
+          </div>
+          <div>
+            {{#if githubURL}}
+              <a href="{{githubURL}}" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+            {{/if}}
+            {{#if url}}
+              <a href="{{url}}" title="Website for {{name}}">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+            {{/if}}
+            {{#if awesomeURL}}
+            <a href="{{awesomeURL}}" title="Awesome List for {{name}}">
+              :sunglasses:
+            </a>
+            {{/if}}
+          </div>
+          <div>
+            {{#if starCountText}}
+              ★{{starCountText}}
+            {{/if}}
+            {{#if lastCommit}}
+              |&nbsp;{{lastCommit}}
+              <ins title="最后更新时间 {{lastCommit}}">ⓘ</ins>
+            {{/if}}
+          </div>
+        </td>
+        <td>{{description}}</td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
+
+{{/each}}
+
+## 贡献者 [![All Contributors](https://img.shields.io/badge/all_contributors-53-orange.svg?style=flat-square)](#contributors)
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## License
+
+MIT, see [LICENSE](/LICENSE) for more details.
+
+[awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-repo]: https://github.com/sindresorhus/awesome
+[the blog post]: https://trackchanges.postlight.com/building-awesome-graphql-f034344d8ed

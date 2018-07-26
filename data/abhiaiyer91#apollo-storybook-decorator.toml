@@ -1,0 +1,5 @@
+name = "apollo-storybook-decorator"
+description = "GitHub - abhiaiyer91/apollo-storybook-decorator: Wrap your storybook environment with Apollo Client, provide mocks for isolated UI testing with GraphQL"
+url = "https://github.com/abhiaiyer91/apollo-storybook-decorator"
+github_repo = "abhiaiyer91/apollo-storybook-decorator"
+language = "javascript"

@@ -1,0 +1,13 @@
+[languages_to_human]
+"c#" = ".NET"
+javascript = "JavaScript"
+php = "PHP"
+python = "Python"
+ruby = "Ruby"
+java = "Java"
+go = "GO"
+clojure = "Clojure"
+css = "CSS"
+"vim" = "Vim script"
+typescript = "TypeScript"
+undefined = "Closed Source"

@@ -1,0 +1,3 @@
+- [ ] 验证正在添加的 GraphQL tools 是能够访问的.
+- [ ] 已阅读过贡献方式文档 [CONTRIBUTING.md](https://github.com/caxie-top/awesome-graphql/blob/master/CONTRIBUTING.md).
+- [ ] 没有自行生成 README.md 文件.
