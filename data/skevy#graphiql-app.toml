@@ -1,0 +1,5 @@
+name = "graphiql-app"
+description = "GitHub - skevy/graphiql-app: Light, Electron-based Wrapper around GraphiQL"
+url = "https://github.com/skevy/graphiql-app"
+github_repo = "skevy/graphiql-app"
+language = "javascript"

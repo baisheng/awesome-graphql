@@ -1,0 +1,3 @@
+name = "Apollo Launchpad"
+description = "View this code sample on Launchpad, the GraphQL server playground."
+url = "https://launchpad.graphql.com/"

@@ -1,0 +1,5 @@
+name = "graphqlviz"
+description = "GitHub - sheerun/graphqlviz: GraphQL Server schema visualizer"
+url = "https://github.com/sheerun/graphqlviz"
+github_repo = "sheerun/graphqlviz"
+language = "javascript"

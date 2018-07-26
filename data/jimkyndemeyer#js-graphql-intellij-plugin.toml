@@ -1,0 +1,5 @@
+name = "js-graphql-intellij-plugin"
+description = "GitHub - jimkyndemeyer/js-graphql-intellij-plugin: GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript."
+url = "https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/"
+github_repo = "jimkyndemeyer/js-graphql-intellij-plugin"
+language = "java"

@@ -1,0 +1,5 @@
+name = "graphql-playground"
+description = "GitHub - prismagraphql/graphql-playground: 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)"
+url = "https://github.com/prismagraphql/graphql-playground"
+github_repo = "prismagraphql/graphql-playground"
+language = "typescript"

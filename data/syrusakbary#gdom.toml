@@ -1,0 +1,5 @@
+name = "gdom"
+description = "GitHub - syrusakbary/gdom: DOM Traversing and Scraping using GraphQL"
+url = "http://gdom.graphene-python.org"
+github_repo = "syrusakbary/gdom"
+language = "python"

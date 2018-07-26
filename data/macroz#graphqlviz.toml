@@ -1,0 +1,5 @@
+name = "GraphQLviz"
+description = "GitHub - Macroz/GraphQLviz: GraphQLviz marries GraphQL (schemas) with Graphviz."
+url = "https://github.com/Macroz/GraphQLviz"
+github_repo = "Macroz/GraphQLviz"
+language = "clojure"

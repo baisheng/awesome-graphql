@@ -1,0 +1,5 @@
+name = "graphql-ide"
+description = "An extensive IDE for exploring GraphQL API's"
+url = "https://github.com/redound/graphql-ide"
+github_repo = "redound/graphql-ide"
+language = "css"

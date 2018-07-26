@@ -1,0 +1,5 @@
+name = "graphql-rover"
+description = "GitHub - Brbb/graphql-rover: GraphQL + Vue.js + D3.js schema viewer, powered by introspection."
+url = "https://github.com/Brbb/graphql-rover"
+github_repo = "Brbb/graphql-rover"
+language = "javascript"

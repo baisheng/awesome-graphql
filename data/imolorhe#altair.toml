@@ -1,0 +1,5 @@
+name = "Altair GraphQL Client"
+description = "GitHub - imolorhe/altair: ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms."
+url = "https://altair.sirmuel.design/"
+github_repo = "imolorhe/altair"
+language = "typescript"

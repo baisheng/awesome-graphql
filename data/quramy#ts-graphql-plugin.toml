@@ -1,0 +1,5 @@
+name = "ts-graphql-plugin"
+description = "GitHub - Quramy/ts-graphql-plugin: TypeScript Language Service Plugin for GraphQL developers"
+url = "https://github.com/Quramy/ts-graphql-plugin"
+github_repo = "Quramy/ts-graphql-plugin"
+language = "typescript"

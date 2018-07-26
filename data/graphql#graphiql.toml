@@ -1,0 +1,5 @@
+name = "graphiql"
+description = "GitHub - graphql/graphiql: An in-browser IDE for exploring GraphQL."
+url = "https://github.com/graphql/graphiql"
+github_repo = "graphql/graphiql"
+language = "javascript"

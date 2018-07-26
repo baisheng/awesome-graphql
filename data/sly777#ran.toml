@@ -1,0 +1,5 @@
+name = "RAN! React . GraphQL . Next.js Toolkit"
+description = "SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more..."
+url = "https://ran.now.sh/"
+github_repo = "sly777/ran"
+language = "javascript"
